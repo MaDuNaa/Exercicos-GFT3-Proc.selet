@@ -1,6 +1,6 @@
-#Exercicios do processo seletivo da GFT #3
+# Exercicios do processo seletivo da GFT #3
 
-#Sobre os exercicios :
+## Sobre os exercicios :
 
 >Aqui temos 4 exercicos de POO para o processo seletivo da GFT.
 
@@ -8,7 +8,7 @@
 
 >2 horas apenas para realizar.
 
-#No exercicos "Ex01" temos um programa de investimentos :
+## No exercicos "Ex01" temos um programa de investimentos :
 
 Crie duas classes herdando a classe Investimento: InvestimentoComIR e InvestimentoSemIR.
 
@@ -28,7 +28,7 @@ sempre 0.
 
 Crie uma classe com método Main, e imprima o resultado
 
-#No exercicos "Ex02" temos um programa de Lista de números :
+## No exercicos "Ex02" temos um programa de Lista de números :
 
 Receba do usuário 10 números e exiba:
 • O maior número
@@ -39,7 +39,7 @@ Receba do usuário 10 números e exiba:
 O usuário não poderá digitar números repetidos e deve ser validada a entrada apenas de números
 inteiros
 
-#No exercicos "Ex03" temos um programa de Cargos :
+## No exercicos "Ex03" temos um programa de Cargos :
 
 Crie um programa no qual o usuário deverá informar o nome e o cargo de cinco pessoas. O
 programa deverá exibir na tela para o usuário quantos Starter, Junior e Sênior foram
@@ -54,7 +54,7 @@ da Pessoa.
 • A classe deverá possuir métodos de acesso para permitir que o usuário armazene/leia os dados
 dos dois dados privados (propriedades).
 
-#No exercicos "Ex04" temos um programa de Maior número da sequência :
+## No exercicos "Ex04" temos um programa de Maior número da sequência :
 
 Faça um programa que leia uma string com sequência de números separados por 1 espaco
 cada e imprima no console:
